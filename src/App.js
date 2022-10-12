@@ -1,7 +1,7 @@
 // import logo from "./logo.svg";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "@fortawesome/fontawesome-free/css/all.min.css"; //important for fontawsome icon
+// import "@fortawesome/fontawesome-free/css/all.min.css"; //important for fontawsome icon
 
 function App() {
   return (
@@ -623,7 +623,7 @@ function App() {
 
         <footer id="contact" className="container">
           <p className="float-end">
-            <a className="fas fa-arrow-up" href="#"></a>
+            <a href="#">Back to top</a>
           </p>
           <p>&copy; 2022 Ahmed Projects. </p>
         </footer>
