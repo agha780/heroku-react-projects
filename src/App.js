@@ -107,7 +107,7 @@ function App() {
               </div>
             </div>
 
-            <div className="carousel-item">
+            <div className="carousel-item text-start">
               <svg
                 className="bd-placeholder-img"
                 width="100%"
@@ -120,7 +120,7 @@ function App() {
                 <rect width="100%" height="100%" fill="#777" />
               </svg>
               <div className="container">
-                <div className="carousel-caption">
+                <div className="carousel-caption text-start">
                   <h1>National Covid Tracker.</h1>
                   <p>2020-2021</p>
                   <p>
@@ -149,7 +149,7 @@ function App() {
               </svg>
 
               <div className="container">
-                <div className="carousel-caption text-end">
+                <div className="carousel-caption text-start">
                   <h1>Weather Applcation.</h1>
                   <p>Personal Project 2022</p>
                   <p>
